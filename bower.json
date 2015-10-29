@@ -1,0 +1,27 @@
+{
+  "name": "oauth-plugin",
+  "authors": [
+    "GEMQ-UFC"
+  ],
+  "description": "app to integrate github and travis-ci",
+  "main": "app/assets/scripts/main.js",
+  "moduleType": [],
+  "keywords": [
+    "Github",
+    "Travis",
+    "CI"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasmine-core": "~2.3.4"
+  }
+}
